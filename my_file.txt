@@ -1,0 +1,11 @@
+this is me texting my text editor
+my name is bea
+this is for my comp141
+and lets say i'm trying to write 
+code for a main method in java
+
+public static void main(String[] args)
+{
+}
+
+ta-da!!
